@@ -1,0 +1,72 @@
+{
+  "name": "trackitt-app-boilerplate",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/jest": "^26.0.15",
+    "@types/node": "^12.0.0",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "trackittapps": "^0.4.9",
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.1.0",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-router-redux": "^5.0.0-alpha.9",
+    "react-scripts": "4.0.3",
+    "redux": "^4.1.0",
+    "redux-actions": "^2.6.5",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^5.2.1",
+    "styled-system": "^5.1.5",
+    "trackitt": "git+https://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:x-oauth-basic@github.com/trackittbyeduro/trackitt-ui-antd",
+    "typescript": "^4.1.2",
+    "web-vitals": "^1.0.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/moment": "^2.13.0",
+    "@types/react-router-dom": "^5.1.6",
+    "@types/react-router-redux": "^5.0.17",
+    "@types/redux-actions": "^2.6.2",
+    "@types/styled-components": "^5.1.5",
+    "@types/styled-system": "^5.1.10",
+    "@typescript-eslint/eslint-plugin": "^4.10.0",
+    "@typescript-eslint/parser": "^4.10.0",
+    "babel-plugin-styled-components": "^1.12.0",
+    "eslint": "^7.15.0",
+    "eslint-config-react-app": "^6.0.0",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

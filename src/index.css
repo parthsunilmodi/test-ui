@@ -1,0 +1,103 @@
+.root {
+  height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, p, span, div {
+  font-family: Mulish !important;
+}
+
+/* Global CSS */
+
+.d-flex {
+  display: flex !important;
+}
+
+.w-100 {
+  width: 100% !important;
+}
+
+.align-items-center {
+  align-items: center !important;
+}
+
+.justify-content-between {
+  justify-content: space-between !important;
+}
+
+.justify-content-end {
+  justify-content: flex-end !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.text-end {
+  text-align: end !important;
+}
+
+.color-fff {
+  color: #ffffff !important;
+}
+
+.direction-column {
+  flex-direction: column !important;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.icon-circle {
+  border-radius: 50%;
+  height: 56px;
+  width: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-circle > svg {
+  font-size: 32px;
+}
+
+.color-success {
+  color: #029D37 !important;
+}
+
+.cursor-pointer {
+  cursor: pointer !important;
+}
+
+.color-000 {
+  color: #000000 !important;
+}
+
+.color-secondary {
+  color: #F08319 !important;
+}
+
+.bg-primary {
+  background: #027A9D !important;
+  border-color: #027A9D !important;
+  box-shadow: none;
+}
+
+.my-2 {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.menu-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon {
+  margin-right: 10px;
+}
