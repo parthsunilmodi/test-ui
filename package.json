@@ -7,7 +7,7 @@
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
-    "trackittapps": "^0.4.9",
+    "antd": "^4.18.2",
     "axios": "^0.21.1",
     "moment": "^2.29.1",
     "react": "^17.0.2",
@@ -22,7 +22,6 @@
     "redux-thunk": "^2.3.0",
     "styled-components": "^5.2.1",
     "styled-system": "^5.1.5",
-    "trackitt": "git+https://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:x-oauth-basic@github.com/trackittbyeduro/trackitt-ui-antd",
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
   },
